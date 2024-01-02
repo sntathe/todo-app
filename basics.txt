@@ -1,0 +1,20 @@
+list traversal
+sum of number in list
+all keywprd
+with..as
+Switch match Case Stamement
+string manupulation
+Splitting the string
+slice
+in
+dictionary
+try-except
+function
+defaults argument
+doc-string , help
+import modules
+
+
+
+time
+strftime
