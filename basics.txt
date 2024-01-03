@@ -13,7 +13,8 @@ function
 defaults argument
 doc-string , help
 import modules
-
+# List unpacking
+# tuple unpacking
 
 
 time

@@ -160,3 +160,18 @@ greet("Alice")
 
 # Calling the function with a custom greeting
 greet("Bob", "Good morning")
+
+
+# List unpacking
+list_values = [3, 4]
+x, y = list_values
+print("After list unpacking:")
+print("x =", x)
+print("y =", y)
+
+# List unpacking
+list_values = [3, 4]
+x, y = list_values
+print("After list unpacking:")
+print("x =", x)
+print("y =", y)
