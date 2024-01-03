@@ -1,2 +1,5 @@
 call mom
 study Python
+call baba
+Eat
+Sleep 8 hours
