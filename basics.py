@@ -175,3 +175,11 @@ x, y = list_values
 print("After list unpacking:")
 print("x =", x)
 print("y =", y)
+
+# Get the index of the item 30
+
+my_list = [10, 20, 30, 40, 50]
+
+index_of_30 = my_list.index(30)
+
+print("Index of 30:", index_of_30)
